@@ -1,0 +1,6 @@
+namespace: nexus
+
+resources:
+- nexus-namespace.yaml
+- nexus-operator-group.yaml
+- nexus-subscription.yaml

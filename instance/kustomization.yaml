@@ -1,0 +1,4 @@
+namespace: nexus
+
+resources:
+- nexus-instance.yaml
